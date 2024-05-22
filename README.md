@@ -1,0 +1,1 @@
+This is the repository of Las Cartas de Sofía or in english Sophie Card's a web videogame where you can play a videogame where you will embodyment a philosopher. This space is still in work. 
